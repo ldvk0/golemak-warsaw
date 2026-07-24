@@ -1,32 +1,29 @@
-# Golemak Warsaw
+# Golemak Warsaw – Polish Colemak for Windows 10/11 (AltGr+a=ą)
 
-Nowoczesny następca projektu [Golemak](https://github.com/ldvk0/golemak), który pozostaje wydaniem legacy.
+[🇵🇱 Polski](#-polski) · [🇬🇧 English](#-english)
 
-Golemak Warsaw zachowuje układ Golemak 2.0 w proporcji 1:1 — razem z polskimi znakami, warstwą AltGr i martwymi klawiszami — ale nie korzysta z przestarzałego Microsoft Keyboard Layout Creator.
+Ergonomiczny **układ klawiatury Colemak z pełnym wsparciem polskich znaków** dla Windows 10/11 — natywny instalator, bez MSKLC. Piszesz po polsku i angielsku skrótami AltGr (ą ć ę ł ń ó ś ź ż).
 
 ## Pobieranie
 
-Gotowy instalator jest dostępny wyłącznie w sekcji [Releases](https://github.com/ldvk0/golemak-warsaw/releases).
+Instalator: **[Releases](https://github.com/ldvk0/golemak-warsaw/releases)** → `GolemakWarsawSetup.exe`.
 
-Instalator:
-
-- jest pojedynczym, małym plikiem EXE;
-- obsługuje Windows x64 i ARM64 oraz aplikacje x86;
-- nie wymaga .NET ani dodatkowych bibliotek;
-- instaluje, aktualizuje i usuwa układ;
-- ma lekki interfejs inspirowany Fluent Design.
+- jeden plik EXE (x86, x64, ARM64), bez .NET  
+- instalacja / aktualizacja / deinstalacja  
+- pełne polskie znaki pod AltGr (układ Golemak 2.0)
 
 ## Wymagania
 
-- Windows 10 lub Windows 11;
-- potwierdzenie UAC podczas instalacji — Windows wymaga uprawnień administratora do zarejestrowania systemowego układu klawiatury.
+Windows 10/11, uprawnienia administratora (UAC).
 
-Pierwsze wydanie preview nie jest jeszcze podpisane komercyjnym certyfikatem, dlatego Windows może wyświetlić ostrzeżenie SmartScreen.
+## SmartScreen
+
+Instalator nie jest podpisany certyfikatem — Windows może ostrzec. **Więcej informacji** → **Uruchom mimo to**.
 
 ## Kod źródłowy
 
-Kod źródłowy Golemak Warsaw jest rozwijany prywatnie. To repozytorium służy wyłącznie do oficjalnej dystrybucji instalatora i informacji o wydaniach.
+Rozwijany prywatnie. To repo = oficjalne **wydania** instalatora.
 
 ## Licencja
 
-MIT. Projekt zachowuje informację o pochodzeniu od Golemaka legacy.
+MIT.
