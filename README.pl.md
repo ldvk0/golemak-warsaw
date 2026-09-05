@@ -1,8 +1,8 @@
-# Projekt przeniesiony na Codeberg ??
+ï»¿# Projekt przeniesiony na Codeberg ğŸ”ï¸
 
-Rozwój tego projektu zosta³ przeniesiony na platformê Codeberg. Najnowsz¹ wersjê oraz wszystkie przysz³e aktualizacje znajdziesz tutaj:
+RozwÃ³j tego projektu zostaÅ‚ przeniesiony na platformÄ™ Codeberg. NajnowszÄ… wersjÄ™ oraz wszystkie przyszÅ‚e aktualizacje znajdziesz tutaj:
 
 **[https://codeberg.org/kpiarz/golemak-warsaw](https://codeberg.org/kpiarz/golemak-warsaw)**
 
 ---
-*To repozytorium na GitHub/GitLab jest teraz zarchiwizowane i s³u¿y jedynie jako przekierowanie.*
+*To repozytorium na GitHub/GitLab jest teraz zarchiwizowane i sÅ‚uÅ¼y jedynie jako przekierowanie.*
