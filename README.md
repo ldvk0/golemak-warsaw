@@ -1,8 +1,10 @@
-﻿# Project Moved to Codeberg 🏔️
+﻿<div align="right"><a href="README.md">EN</a> | <a href="README.pl.md">PL</a></div>
 
-The development of this project has been moved to Codeberg. You can find the latest version and all future updates here:
+# Project Moved to CodeFloe 🧊
 
-**[https://codeberg.org/kpiarz/golemak-warsaw](https://codeberg.org/kpiarz/golemak-warsaw)**
+The development of this project has been moved to CodeFloe. You can find the latest version and all future updates here:
+
+**[https://codefloe.com/kpiarz/golemak-warsaw](https://codefloe.com/kpiarz/golemak-warsaw)**
 
 ---
-*This repository on GitHub/GitLab is now archived and serves only as a redirection.*
+*This repository on GitHub/GitLab/Codeberg is now archived and serves only as a redirection.*
