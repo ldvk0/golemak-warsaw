@@ -1,4 +1,4 @@
-﻿<div align="right"><a href="README.md">EN</a> | <a href="README.pl.md">PL</a></div>
+﻿<div align="right">🇺🇸 EN | <a href="README.pl.md">🇵🇱 PL</a></div>
 
 # Project Moved to CodeFloe 🧊
 
@@ -7,4 +7,4 @@ The development of this project has been moved to CodeFloe. You can find the lat
 **[https://codefloe.com/kpiarz/golemak-warsaw](https://codefloe.com/kpiarz/golemak-warsaw)**
 
 ---
-*This repository on GitHub/GitLab/Codeberg is now archived and serves only as a redirection.*
+*This repository on 🐱 GitHub / 🦊 GitLab / 🏔️ Codeberg is now archived and serves only as a redirection.*
